@@ -9,7 +9,7 @@ on:
       solution_name:
         description: 'name of the solution to worked on from Power Platform'
         required: true
-        default: ALMLab
+        default: DemoBot Dev Solution
        #Do Not change these values
       solution_exported_folder:
         description: 'folder name for staging the exported solution *do not change*'
@@ -25,7 +25,7 @@ on:
        default: solutions/
 env:
 #edit your values here
-  ENVIRONMENT_URL: 'https://orgd06234e4.crm.dynamics.com/'
+  ENVIRONMENT_URL: 'https://orgb2bad2c4.crm.dynamics.com/'
   CLIENT_ID: '2660758b-7d55-4170-a5ce-5d0fedd4c577'
   TENANT_ID: 'c36b3a7a-57ab-4665-a61b-6213bf679d9b'
 
