@@ -1,0 +1,7 @@
+<bot schemaname="new_bot_6ab3fa571f4b4e438e6d65ac7b4208de">
+  <authenticationmode>1</authenticationmode>
+  <authenticationtrigger>0</authenticationtrigger>
+  <iscustomizable>1</iscustomizable>
+  <language>1033</language>
+  <name>testbot</name>
+</bot>
