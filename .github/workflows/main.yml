@@ -28,6 +28,8 @@ env:
   ENVIRONMENT_URL: 'https://orgd06234e4.crm.dynamics.com/'
   CLIENT_ID: '2660758b-7d55-4170-a5ce-5d0fedd4c577'
   TENANT_ID: 'c36b3a7a-57ab-4665-a61b-6213bf679d9b'
+  CLIENT_SECRET: 'Srm8Q~i1zY7eJsuyzVwF2iN_CZD3VPG8a.cRFdAj'
+  USERNAME: 'MOD Administrator'
 
 jobs:
   export-from-dev:
